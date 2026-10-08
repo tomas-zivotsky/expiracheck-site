@@ -64,7 +64,7 @@ not operated or endorsed by Google.
 ## 5. Data and privacy
 
 The handling of personal information is described in the
-[Privacy Policy](https://tomas-zivotsky.github.io/expiracheck-site/privacy-policy.md).
+[Privacy Policy](./privacy-policy.md).
 
 Expiracheck has no developer-operated backend server.
 Local app data is stored on your device, and calendar events
