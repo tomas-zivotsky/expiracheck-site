@@ -48,5 +48,5 @@ For support, questions, or privacy inquiries, contact:
 
 ## Legal
 
-- [Privacy Policy](https://tomas-zivotsky.github.io/expiracheck-site/privacy-policy.md)
-- [Terms of Service](https://tomas-zivotsky.github.io/expiracheck-site/terms-of-service.md)
+- [Privacy Policy](https://github.com/tomas-zivotsky/expiracheck-site/blob/main/privacy-policy.md)
+- [Terms of Service](https://github.com/tomas-zivotsky/expiracheck-site/blob/main/terms-of-service.md)
