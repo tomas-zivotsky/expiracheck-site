@@ -165,4 +165,4 @@ Email: [zivotsky.t@gmail.com](mailto:zivotsky.t@gmail.com)
 
 [Home](https://tomas-zivotsky.github.io/expiracheck-site/)
 |
-[Terms of Service](https://tomas-zivotsky.github.io/expiracheck-site/terms-of-service.html)
+[Terms of Service](https://github.com/tomas-zivotsky/expiracheck-site/blob/main/terms-of-service.md)
