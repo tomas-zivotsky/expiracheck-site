@@ -37,7 +37,7 @@ The app does not use analytics or crash-reporting services.
 Google user data is used to provide the Google Calendar integration.
 
 For details about personal information and Google user data,
-please read our [Privacy Policy](https://github.com/tomas-zivotsky/expiracheck-site/blob/main/privacy-policy.md).
+please read our [Privacy Policy](https://github.com/tomas-zivotsky/expiracheck-site/privacy-policy.md).
 
 ## Developer and contact
 
@@ -48,5 +48,5 @@ For support, questions, or privacy inquiries, contact:
 
 ## Legal
 
-- [Privacy Policy](https://github.com/tomas-zivotsky/expiracheck-site/blob/main/privacy-policy.md)
-- [Terms of Service](https://github.com/tomas-zivotsky/expiracheck-site/blob/main/terms-of-service.md)
+- [Privacy Policy](https://github.com/tomas-zivotsky/expiracheck-site/privacy-policy.md)
+- [Terms of Service](https://github.com/tomas-zivotsky/expiracheck-site/terms-of-service.md)
